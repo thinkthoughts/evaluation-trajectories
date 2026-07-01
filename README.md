@@ -2,6 +2,8 @@
 
 **Leads specify trails.**
 
+<img src="figures/2606-24155.png" />
+
 Open evaluation infrastructure for frontier AI research, inspired by process-oriented evaluation in MedBench v5, hidden-state diagnostics, behavioral regression testing, and foundational work on implicit regularization and capacity control.
 
 ## Core question
