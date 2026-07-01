@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Evaluation Trajectories
+message: If you use this repository, please cite it as below.
+type: software
+authors:
+  - family-names: Hawkley
+    given-names: Dan
+repository-code: https://github.com/thinkthoughts/evaluation-trajectories
+url: https://labreports.app/2606-24155/
+date-released: "2026-07-01"
+license: MIT
+keywords:
+  - frontier AI evaluation
+  - evaluation trajectories
+  - process-oriented evaluation
+  - behavioral regression
+  - model reliability

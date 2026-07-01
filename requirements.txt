@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+matplotlib
+networkx
+scikit-learn
+torch
+transformers
+datasets
+evaluate
+jupyterlab
+ipywidgets
+tqdm
+plotly
